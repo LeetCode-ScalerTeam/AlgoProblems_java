@@ -25,9 +25,14 @@ This Repository contains java codes for the common algo problems from major codi
 
 
   [Two-Sum]: <https://leetcode.com/problems/two-sum>
-   [/src/com/leetCode/TwoSum.java]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/master/src/com/leetCode/TwoSum.java>
+   [/src/com/leetCode/TwoSum.java]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/master/src/com/leetCode/TwoSumsSolution>
    [Best-time-to-buy-and-sell-stock]: <https://leetcode.com/problems/best-time-to-buy-and-sell-stock/>
    [/src/com/leetCode/BuySellStocks.java]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/master/src/com/leetCode/BuySellStocks.java>
    [/src/com/leetcode]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/tree/master/src/com/leetCode>
+   [Product-Except-Self]: <https://leetcode.com/problems/product-of-array-except-self/>
+   [/src/com/leetCode/ProductExceptSelf]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/Ck_LeetCode/src/com/leetCode/ProductExceptSelf>
+   [Search-Rotated-Array]: <https://leetcode.com/problems/search-in-rotated-sorted-array/>
+   [/src/com/leetCode/SearchInRotatedArray]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/Ck_LeetCode/src/com/leetCode/SearchInRotatedArray>
+      
    
    
