@@ -1,7 +1,7 @@
-# AlgoProblems_java
+# AlgoProblems_CSharp
 
 
-This Repository contains java codes for the common algo problems from major coding practice sites.Such as:
+This Repository contains C# codes for the common algo problems from major coding practice sites, such as:
 
   - LeetCode
 
