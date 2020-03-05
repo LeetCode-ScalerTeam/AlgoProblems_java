@@ -1,7 +1,7 @@
 # AlgoProblems_CSharp
 
 
-This Repository contains C# codes for the common algo problems from major coding practice sites, such as:
+This Branch contains C# codes for the common algo problems from major coding practice sites, such as:
 
   - LeetCode
 
