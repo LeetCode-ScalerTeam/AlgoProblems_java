@@ -17,15 +17,13 @@ Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
  
 
--- Method Followed -- Brute Force Approach --
-Find the maximum difference between two numbers in the given array. 
-The second number - selling price - must be larger than the first one - buying price.
-
-max(prices[j]−prices[i]), for every i and j such that j > i.
+-- Method Followed --
+Maintain two variables minPrice and maxProfit.
+Find the minimum price in the array.
 
 -- Complexity Analysis -- 
 
-Time complexity : O(n^2)
+Time complexity : O(n)
 Space complexity : O(1)
 
 */
