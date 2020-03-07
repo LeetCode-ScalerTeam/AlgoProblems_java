@@ -19,7 +19,7 @@ class MyClass
 {
     static void Main(string[] args)
     {
-        int N = Convert.ToInt32(Console.ReadLine()); ;
+        int N = Convert.ToInt32(Console.ReadLine());
         printPrime(N);
     }
 
