@@ -39,7 +39,7 @@ This Repository contains java codes for the common algo problems from major codi
    [/src/com/leetCode/TwoSum.java]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/master/src/com/leetCode/TwoSum.java>
    [/src/com/leetCode/BuySellStocks.java]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/master/src/com/leetCode/BuySellStocks.java>
    [/src/com/leetCode/MergeIntervals.java]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/master/src/com/leetCode/MergeIntervals.java>
-   [/src/com/leetCode/BulbSwitcher3]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/master/src/com/leetCode/BulbSwitcher3.java>
+   [/src/com/leetCode/BulbSwitcher3.java]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/master/src/com/leetCode/BulbSwitcher3.java>
    [/src/com/leetCode/TimeNeededToInformAllEmployees.java]: <https://github.com/LeetCode-ScalerTeam/AlgoProblems_java/blob/master/src/com/leetCode/TimeNeededToInformAllEmployees.java>
    
    
